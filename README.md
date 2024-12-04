@@ -3,10 +3,10 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2334D058.svg?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/)
 
-# Stylist Ai : Revolutionizing Fashion with AI Outfit Recommendation, Outfit Generation, Virtual Try-On, and Fashion Chatbot! 👗🤖
+# Virtual Try-On: Revolutionizing Fashion with AI Outfit Recommendation, Outfit Generation, Virtual Try-On, and Fashion Chatbot! 👗🤖
 
 
-👗✨ Experience the future of fashion with **Stylist AI**, where innovation meets style. Our cutting-edge platform revolutionizes your wardrobe by offering personalized outfit recommendations and generating unique ensembles tailored just for you. Explore our virtual try-on feature to visualize your perfect look effortlessly. Engage in fashion-forward conversations and get expert styling advice with our AI-powered chatbot. Elevate your fashion game with Stylist AI and discover a new era of effortless elegance. 🌟🤖
+👗✨ Experience the future of fashion with **Virtual Try-On**, where innovation meets style. Our cutting-edge platform revolutionizes your wardrobe by offering personalized outfit recommendations and generating unique ensembles tailored just for you. Explore our virtual try-on feature to visualize your perfect look effortlessly. Engage in fashion-forward conversations and get expert styling advice with our AI-powered chatbot. Elevate your fashion game with Stylist AI and discover a new era of effortless elegance. 🌟🤖
 
 # Demonstration of the Project
 
@@ -33,14 +33,14 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 >Prompt : Flowers in green shirt with white colored button.
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
+
 
 <a name="Human-Detection"></a>
 ## Human-Identification 👤🚀
 
 This code implements an image classification model using TensorFlow and Keras. The model is designed to classify images into two classes: "human" and "non-human." The neural network architecture consists of convolutional (Conv2D) and pooling (MaxPooling2D) layers, followed by fully connected (Dense) layers. The model is compiled using the binary crossentropy loss function and the Adam optimizer. The Intel OneDNN helped in reducing the time for training, and the optimized TensorFlow for Intel Hardwares helped us in reducing the time for training. 🌐🖼️🤖💪
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Human-Identification)
+
 
 <a name="Outfit-Recommendation"></a>
 ## Outfit-Recommendation 🛍️💡
@@ -58,7 +58,7 @@ This code snippet demonstrates the implementation of an outfit-recommendation mo
 > Selected Ocassion : Wedding
 > Selected Color : White
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Outfit-Recommendation)
+
 
 <a name="Virtual-Try-On"></a>
 ## Virtual-Try-On 🌐👀
